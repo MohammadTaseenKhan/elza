@@ -1,7 +1,7 @@
 {
-  "name": "elza-browser",
+  "name": "elzabrowser",
   "description": "Elza incognito web browser",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "author": {
     "name": "ElzaBrowserAuthors",
     "email": "elzabrowser@gmail.com",
@@ -15,7 +15,7 @@
     "url": "https://github.com/elzabrowser/elza.git"
   },
   "build": {
-    "appId": "com.eeo.elzabrowser",
+    "appId": "com.elza.elzabrowser",
     "files": [
       "build/**/*",
       "node_modules/**/*"
@@ -68,7 +68,8 @@
       "publisherName": "ExpertEvidence.org",
       "target": [
         "nsis",
-        "nsis-web"
+        "nsis-web",
+        "appx"
       ],
       "verifyUpdateCodeSignature": false,
       "extraFiles": [
