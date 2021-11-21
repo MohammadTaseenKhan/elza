@@ -30,3 +30,5 @@ package-lock.json
 notification.json
 electron-builder.yml
 todo
+!build/appx
+elzabrowser.pfx

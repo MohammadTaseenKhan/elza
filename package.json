@@ -65,7 +65,7 @@
       ]
     },
     "win": {
-      "publisherName": "ExpertEvidence.org",
+      "publisherName": "ElzaBrowser",
       "target": [
         "nsis",
         "nsis-web",
