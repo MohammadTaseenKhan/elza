@@ -66,4 +66,11 @@ Need assistance or want to ask a question? You can [start a discussion](https://
 
 
 
+## Contributors
 
+
+<div align="center">
+<a href="https://github.com/elzabrowser/elza/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=elzabrowser/elza" />
+</a>
+</div>
