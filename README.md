@@ -1,9 +1,9 @@
 
 <div align="center">
-<img src="https://elzabrowser.com/assets/icon.png" height="80" length="80">
+<img src="public/icon.png" height="80" length="80">
 
 # Elza Browser
-<img src="https://elzabrowser.com/assets/elza.webp" />
+<img src="public/icon.png" />
 
 
 </div>
